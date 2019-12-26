@@ -26,6 +26,8 @@ update mysql.user set host='%' where user='newuser';
 =============================================================================================
 SHOW GRANTS FOR 'root'@'localhost';
 
+mvn archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4
+
 
 
 
