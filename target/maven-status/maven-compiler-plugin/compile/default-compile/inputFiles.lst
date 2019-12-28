@@ -1,3 +1,3 @@
-C:\projects\hibernate\src\main\java\com\mkyong\common\Stock.java
-C:\projects\hibernate\src\main\java\com\mkyong\common\App.java
-C:\projects\hibernate\src\main\java\com\mkyong\persistence\HibernateUtil.java
+C:\projects\hibernate\src\main\java\com\venia\persist\utils\HibernateSessionFactory.java
+C:\projects\hibernate\src\main\java\com\venia\persist\main\AppMain.java
+C:\projects\hibernate\src\main\java\com\venia\persist\dao\ContactEntity.java
